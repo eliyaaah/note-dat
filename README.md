@@ -4,7 +4,7 @@
 
 Note Dat is a web-based application for taking, organizing, and keeping notes. Application allows user to create notebooks and notes inside them. Note can be modified, deleted, or moved to a different notebook.
 
-Application supports user registration and logins. Notebooks and notes are assigned to user profiles and kept on the database on backend, so that users can access their notes from a web browser on any computer.  
+Application supports user registration and logins. User authentication is secure and based on JWT tokens. Notebooks and notes are assigned to user profiles and kept on the database on backend, so that users can access their notes from a web browser on any computer.   
 
 ## Heroku:
 
